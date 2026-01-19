@@ -24,6 +24,7 @@ IDEs & Tools :<br>
 <br>
 My Statistics 📈<br>
 
-![andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-radatz&show_icons=true&theme=radical)
-Connect with me:<br>
+![andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-radatz&show_icons=true&theme=radical)<br>
+Connect with me:
+<br>
 [![html](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-radatz-1ba2a914b/)
