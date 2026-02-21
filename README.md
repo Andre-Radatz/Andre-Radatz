@@ -1,5 +1,7 @@
-OLá 👋,Eu sou André Radatz
+OLá 👋,Eu sou André Radatz<br>
+Engenheiro de Software
 <br><br>
+
 <img src="https://komarev.com/ghpvc/?username=Andre-Radatz" class="opa">
 
 Minhas Habilidades<br>
@@ -18,9 +20,7 @@ Databases and Hostings<br>
 IDEs & Tools :<br>
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![](	https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 <br>
-My Statistics 📈<br>
 
-![andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-radatz&show_icons=true&theme=radical)<br>
 Connect with me:
 <br>
 [![html](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-radatz-1ba2a914b/)
